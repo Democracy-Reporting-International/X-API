@@ -4,4 +4,6 @@ Attached in the folder is a document that can guide you through working with the
 After completing a project involving X, we kindly ask that you upload any scripts (ideally cleaned) to this repository for future reference.
 
 Thanks! 
-Duncan, Digital Democracy Researcher
+
+Duncan, 
+Digital Democracy Researcher
