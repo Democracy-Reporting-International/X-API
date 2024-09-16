@@ -1,7 +1,0 @@
-# X-API
-Welcome to the DRI Digital Democracy Github! Here you will find documentation for working with the X API and lessons learned from past DD projects that required X access.
-
-The July 2024 Report 
-
-The EP election brief on X, part of the access://democracy project, underwent significant changes between its initial conceptual methodology and the final report. The project originally aimed to locate bot networks in the comments and mentions of popular Euro-skeptical parties on the platform. However, this scope had to be redefined to look at purely the speech of these parties and their accounts, rather than the accounts of possible bots. This was mainly due to the lack of clear resources and documentation about what is and isn’t feasible with access to the X API, and the significant restrictions that have been placed on the API since 2023. In addition, X is not a platform often used for social media monitoring by the Digital Democracy team and was unfamiliar to navigate. The purpose of this document is to provide as much clarification as possible about how to work with the X API both methodologically and technically to better inform future research proposals.  
-
