@@ -9,3 +9,17 @@ Thanks!
 
 Duncan, 
 Digital Democracy Researcher
+
+# Links
+
+Documentation on the Official X Developer Site:
+
+https://developer.x.com/en/docs/x-api/tweets/lookup/api-reference/get-tweets
+
+Tweepy GitHub Repository:
+
+https://github.com/tweepy/tweepy
+
+2024 Digital Democracy X Brief:
+
+https://democracy-reporting.org/en/office/global/publications/afd-v-rn-a-comparative-analysis-of-far-right-political-campaigning-on-x
